@@ -1,4 +1,4 @@
-### Hello Im Shreyas here to conquer the world
+### Hello Im Shreyas, here to conquer the world
 
 <!--
 **shreyas-sridhar/shreyas-sridhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
